@@ -1,2 +1,2 @@
 /sec1
-password.txt
+password
